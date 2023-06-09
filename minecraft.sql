@@ -149,11 +149,11 @@ insert into Tipo_Mundo (Tipo_mundo, id_mundo) values
 
 
 insert into Evento (id_evento, nombre, fecha, descripcion) values 
-(01, "Evento1", '2020-06-09', "Este es el Evento1" ),
-(02, "Evento2", '2012-28-1', "Este es el Evento2" ),
-(03, "Evento3", '2021-09-26', "Este es el Evento3" ),
-(04, "Evento4", '2000-10-21', "Este es el Evento4" ),
-(05, "Evento5", '2002-12-31', "Este es el Evento5" );
+(01, "InicioMundo", '2020-06-09', "Este es el Evento1" ),
+(02, "EventoMundo1", '2012-28-1', "Este es el Evento2" ),
+(03, "EventoNether", '2021-09-26', "Este es el Evento3" ),
+(04, "EventoEnd", '2000-10-21', "Este es el Evento4" ),
+(05, "FinMundo", '2002-12-31', "Este es el Evento5" );
 
 
 insert into Tipo_Evento (tipo_evento, id_evento) values 
